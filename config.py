@@ -1,4 +1,4 @@
-api_key = "MTNjZjkwOTItNjFkNy00YTkzLWE2ZGYtZGZkOWU4OWY1ODg1OmJkYTkxMDA3OTdjODRkMjA4NDZjOTNjNmMwM2YwZmNi"
+api_key = "Lingvo API key"
 URL_AUTH = 'https://developers.lingvolive.com/api/v1.1/authenticate'
 URL_TRANSLATE = 'https://developers.lingvolive.com/api/v1/Minicard'
 
